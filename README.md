@@ -57,9 +57,10 @@ Hey there, Thanks for visiting my profile...
  
  <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="bgonzales17" /></p>
 <p align="center">
-  Bye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px">
+  Bye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> Avengers Assemble !!! 
 <!-- </p>
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=bgonzales17.bgonzales17" alt="bgonzales17" /> 
 </p>  -->
 <br>
 <img width="100%" height="50%" src="https://github.com/bgonzales17/bgonzales17/blob/main/avengers.gif">
+
