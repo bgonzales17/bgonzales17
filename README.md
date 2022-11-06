@@ -34,6 +34,7 @@ Hey there, Thanks for visiting my profile...
 <img align="left" alt="Java" width="30px" src="http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" />
 <img align="left" alt="intellijIDEA" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
 <br>
+<br>
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Repo" />
