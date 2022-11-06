@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Ben
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-bgonzales17/bgonzales17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![NewTopWave](https://github.com/bgonzales17/bgonzales17/blob/main/buildings.gif)
+
+
+
+<p align="center">
+  <img width="" height="" src="https://github.com/bgonzales17/bgonzales17/blob/main/ironman.gif">
+</p>
+
+![NewTopWave](https://github.com/bgonzales17/bgonzales17/blob/main/buildings.gif)
