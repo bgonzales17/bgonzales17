@@ -14,6 +14,8 @@ Hey there, Thanks for visiting my profile...
 <p align="right">
   <img width="100%" height="180em" src="https://github.com/bgonzales17/bgonzales17/blob/main/buildings.gif">
 </p>
+<br>
+
 
 ### Languages 🧑‍💻 and Tools ⚙️:
  
@@ -33,8 +35,11 @@ Hey there, Thanks for visiting my profile...
 <img align="left" alt="Terminal" width="34px" src="https://www.svgrepo.com/show/362176/terminal.svg" />  
 <img align="left" alt="Java" width="30px" src="http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" />
 <img align="left" alt="intellijIDEA" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Repo" />
