@@ -44,14 +44,14 @@ Hey there, Thanks for visiting my profile...
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/bgonzales17">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bgonzales17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bgonzales17&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em"  width = "330em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bgonzales17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "330em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bgonzales17&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "330em" src="https://github-readme-streak-stats.herokuapp.com/?user=bgonzales17&theme=algolia" alt="bgonzales17" />
+  </a>
  <br />
   
-   <p align="center"><img height="180em"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgonzales17&theme=algolia" alt="bgonzales17" /></p>
    
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bgonzales17&theme=react-dark)   
  
