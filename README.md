@@ -12,7 +12,7 @@ Hey there, Thanks for visiting my profile...
 ⚡  Fun fact: I love to draw, play video game & watch cartoons and anime. </br>
 👨‍💻  I am passionate about creating website, Drawing & I enjoy learning new things. </br>
 <p align="right">
-  <img width="100%" height="10%" src="https://github.com/bgonzales17/bgonzales17/blob/main/buildings.gif">
+  <img width="100%" height="180em" src="https://github.com/bgonzales17/bgonzales17/blob/main/buildings.gif">
 </p>
 
 ### Languages 🧑‍💻 and Tools ⚙️:
@@ -37,8 +37,8 @@ Hey there, Thanks for visiting my profile...
 <br>
 ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
@@ -51,16 +51,15 @@ Hey there, Thanks for visiting my profile...
 </a>
  <br />
   
-   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgonzales17&theme=algolia" alt="bgonzales17" /></p>
+   <p align="center"><img height="180em"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgonzales17&theme=algolia" alt="bgonzales17" /></p>
    
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bgonzales17&theme=react-dark)   
  
- <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="bgonzales17" /></p>
 <p align="center">
   Bye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> Avengers Assemble !!! 
 <!-- </p>
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=bgonzales17.bgonzales17" alt="bgonzales17" /> 
 </p>  -->
 <br>
-<img width="100%" height="50%" src="https://github.com/bgonzales17/bgonzales17/blob/main/avengers.gif">
+<img width="100%" height="180em" src="https://github.com/bgonzales17/bgonzales17/blob/main/avengers.gif">
 
