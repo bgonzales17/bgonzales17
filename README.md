@@ -44,7 +44,7 @@ Hey there, Thanks for visiting my profile...
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/bgonzales17">
   <img height="180em"  width = "330em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bgonzales17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width = "330em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bgonzales17&layout=compact&langs_count=8&theme=algolia"/>
