@@ -39,9 +39,6 @@ Hey there, Thanks for visiting my profile...
 <img align="left" alt="Windows" width="27px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="34px" src="https://www.svgrepo.com/show/362176/terminal.svg" />  
 <img align="left" alt="Java" width="30px" src="http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" />
-<br/>
-<br/>
-<br/>
 <img align="left" alt="intellijIDEA" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
 <img align="left" alt="Microsoft Office" width="28px" src="https://www.svgrepo.com/show/303269/microsoft-office-2013-logo.svg" />
 <img align="left" alt="Figma" width="28px" src="https://www.svgrepo.com/show/354987/figma.svg" />
