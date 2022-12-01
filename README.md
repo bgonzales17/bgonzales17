@@ -46,6 +46,8 @@ Hey there, Thanks for visiting my profile...
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgonzales17&theme=nord_dark" alt="Top Languages by Repo" />
