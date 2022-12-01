@@ -22,20 +22,30 @@ Hey there, Thanks for visiting my profile...
 <img align="left" alt="Visual Studio Code" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio Community" width="29px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="C" width="29px" src="https://www.svgrepo.com/show/353528/c.svg" />
-<img align="left" alt="C++" width="29px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
 <img align="left" alt="C#" width="28px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 <img align="left" alt=".NET" width="29px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Qn56jZYxE3FX7Qz7aeV9L3wZ_4PnBPzuNw&usqp=CAU" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="HTML5" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />
+<img align="left" alt="JS" width="28px" src="https://www.svgrepo.com/show/355081/js.svg" />
+<img align="left" alt="PHP" width="28px" src="https://www.svgrepo.com/show/349474/php.svg" />
 <img align="left" alt="Bootstrap 5" width="32px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />
+<img align="left" alt="AWS" width="28px" src="https://www.svgrepo.com/show/376356/aws.svg" />
+<img align="left" alt="Microsoft Azure" width="28px" src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" />
+<img align="left" alt="VBA" width="28px" src="https://www.svgrepo.com/show/374159/vba.svg" />
+<img align="left" alt="Cobol" width="28px" src="https://www.svgrepo.com/show/373510/cobol.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://www.svgrepo.com/show/343674/github.svg" />
 <img align="left" alt="Windows" width="27px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="34px" src="https://www.svgrepo.com/show/362176/terminal.svg" />  
 <img align="left" alt="Java" width="30px" src="http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" />
-<img align="left" alt="intellijIDEA" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
 <br/>
+<br/>
+<br/>
+<img align="left" alt="intellijIDEA" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
+<img align="left" alt="Microsoft Office" width="28px" src="https://www.svgrepo.com/show/303269/microsoft-office-2013-logo.svg" />
+<img align="left" alt="Figma" width="28px" src="https://www.svgrepo.com/show/354987/figma.svg" />
+<img align="left" alt="Adobe" width="28px" src="https://www.svgrepo.com/show/197935/adobe.svg" />
 <br/>
 <br/>
 <br/>
