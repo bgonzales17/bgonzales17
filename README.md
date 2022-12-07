@@ -64,16 +64,12 @@ Hey there, Thanks for visiting my profile...
   <img height="180em" width = "330em" src="https://github-readme-streak-stats.herokuapp.com/?user=bgonzales17&theme=algolia" alt="bgonzales17" />
   </a>
  <br />
-  
    
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bgonzales17&theme=react-dark)   
- 
 <p align="center">
-  Bye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> 
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there!;+Lets+Assemble+Avenger+Team!+%3A)&size=30">
   </a>
-Avengers Assemble !!! 
 <!-- </p>
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=bgonzales17.bgonzales17" alt="bgonzales17" /> 
 </p>  -->
